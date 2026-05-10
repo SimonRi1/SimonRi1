@@ -21,7 +21,7 @@ I'm a Cybersecurity Master's student with a deep passion for offensive security.
 
 ### 🚀 Portfolio & Documentation
 
-All my technical documentation, including in-depth reports and research notes, is available on my dedicated site: **[SimonRi1.github.io](https://simonri1.github.io)** 
+All my technical notes, including in-depth reports and vulnerable machine writeups, is available on my dedicated site: **[SimonRi1.github.io](https://simonri1.github.io)** 
 
 * **CTF Write-ups:** Detailed methodologies and exploit chains for challenges (HTB, THM, VulnHub).
 * **Security Tools:** Python scripts for automation and vulnerability analysis, the use of different tools, ad hoc creafted payloads.
