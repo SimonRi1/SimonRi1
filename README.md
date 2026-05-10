@@ -5,7 +5,7 @@ I'm a Cybersecurity Master's student with a deep passion for offensive security.
 
 * 🎓 **Current Focus:** Completing a Master's degree in Cybersecurity while actively honing offensive skills on Hack The Box and TryHackMe.
 * 🤝 **Open To:** Collaborating on open-source security tools, joining CTF teams, and participating CTFs competitions.
-* 🎯 **Career Goals:** Seeking mentorship and entry-level opportunities in Penetration Testing to apply my skills in real-world environments.
+* 🎯 **Career Goals:** Seeking an entry-level opportunities in Penetration Testing to apply my skills in real-world environments.
 
 ---
 
