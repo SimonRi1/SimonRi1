@@ -13,9 +13,9 @@ I'm a Cybersecurity Master's student with a deep passion for offensive security.
 
 | Area | Details | Badge |
 | :--- | :--- | :--- |
-| **Practical Pentesting && CTFs** | Main Platforms: Hack The Box, TryHackMe, VulnHub. **HTB:** [Novice] Rank, [4]+ Machines Rooted (easy). | [![TryHackMe](https://img.shields.io/badge/TryHackMe-2C364A?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/I4m6r0o7) [![HackTheBox](https://img.shields.io/badge/HackTheBox-1b3636?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/852034) |
+| **Practical Pentesting && CTFs** | Main Platforms: Hack The Box, TryHackMe, VulnHub. **HTB:** [Novice] Rank, [5]+ Machines Rooted (easy). | [![TryHackMe](https://img.shields.io/badge/TryHackMe-2C364A?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/I4m6r0o7) [![HackTheBox](https://img.shields.io/badge/HackTheBox-1b3636?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/852034) |
 | **Languages & Scripting** | **Python** (for auditing tools and exploit development), Bash, C and Markdown.  | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **Certifications** | eJPT (IN PROGRESS) | - |
+| **Certifications** | eJPT | - |
 
 ---
 
