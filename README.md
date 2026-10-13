@@ -1,4 +1,4 @@
-## About Me:
+## 👨‍💼 About Me:
 Hi there!!
 
 I'm a Cybersecurity Master's student with a deep passion for offensive security. I thrive on the challenge of bridging the gap between theoretical knowledge and practical application. 
