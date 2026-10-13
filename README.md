@@ -10,12 +10,14 @@ I'm a Cybersecurity Master's student with a deep passion for offensive security.
 
 ---
 
-### 🧠 Technical Skills (Security Focus)
+### 🧠 Technical Skills
 
 | Area | Details | Badge |
 | :--- | :--- | :--- |
 | **Practical Pentesting && CTFs** | Main Platforms: Hack The Box, VulnHub. **HTB:** [Skilled] Rank, [10]+ Machines Rooted (easy). | [![HackTheBox](https://img.shields.io/badge/HackTheBox-1b3636?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/852034) |
 | **Languages & Scripting** | **Python** (for auditing tools and exploit development), Bash, C and Markdown.  | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| **Security Tools** | Nmap, Burp Suite, Metasploit, Wireshark, Hashcat, Linux CLI, Windows powershell. | [![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white)]() |
+| **Core Concepts & Architecture** | ML-based Threat Detection, Network Defense, Vulnerability Assessment, _Cloud Security - SOON_. |
 | **Certifications** | eJPT | [![eJPT Certified](https://img.shields.io/badge/eJPT-Certified-red?style=for-the-badge&logo=security)](https://certs.ine.com/4dd2daa3-ebfa-4fc8-854a-0eb566da2032#acc.mKb4dxzB) |
 
 ---
