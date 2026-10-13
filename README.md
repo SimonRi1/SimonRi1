@@ -38,7 +38,6 @@ Feel free to reach out for CTF discussions, New tools and thecnologies or just t
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simon.riccio@proton.me)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ricci_02/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-riccio-55373b204/)
-[![Blog & Writeups](https://img.shields.io/badge/Blog-Writeups_&_Notes-blue?style=for-the-badge&logo=hashnode)](https://simonri1.github.io/)
  
 
 <!--# 📊 GitHub Stats:
