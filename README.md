@@ -34,7 +34,7 @@ All my technical notes, including in-depth reports and vulnerable machine writeu
 
 ### 🌐 Socials:
 
-Feel free to reach out for CTF discussions, New tools and thecnologies or just to talk security!
+Feel free to reach me out to talk security and other new technology frontiers!
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simon.riccio@proton.me)
